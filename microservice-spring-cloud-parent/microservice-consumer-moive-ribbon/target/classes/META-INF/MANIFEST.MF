@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice-consumer-moive-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yulongliu
+Implementation-Vendor-Id: com.lyl.springCloud
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/microservice
+ -spring-cloud-parent/microservice-consumer-moive-ribbon/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
